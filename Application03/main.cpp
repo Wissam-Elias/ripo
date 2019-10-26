@@ -37,4 +37,5 @@ int main()
          cout << "\nX2 = " << x2 << endl ;
         }
     }
+    return 0 ;
 }
