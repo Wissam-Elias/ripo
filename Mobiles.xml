@@ -1,0 +1,18 @@
+<MobApp>
+
+<Mobile>
+<Name>Galaxy A9</Name>
+<Price>200.000 SYP</Price>
+<Details>This Mobile Have 4 Cameras</Details>
+</Mobile>
+
+
+<Mobile>
+<Name>Galaxy Grand 2</Name>
+<Price>8000 SYP</Price>
+<Details>This Mobile Have Nothing</Details>
+</Mobile>
+
+
+
+</MobApp>
